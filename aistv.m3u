@@ -4,20 +4,20 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDg6NTg6NTAgQU0maGFzaF92YWx1ZT1zMUhqcU1QQ1h2ZTZmRDlHbXR0Q1F3PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDE6NTE6NTAgUE0maGFzaF92YWx1ZT1Ucm9XNkZ4NWljWFluRHU3SHpZMVlnPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/35348deb64cb.webp" group-title="iPTVplus", True film1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDk6MDA6NDMgQU0maGFzaF92YWx1ZT1Ga0J2dHcvcWN2QzJpb1lkdjF6Rkt3PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDE6NTE6NTAgUE0maGFzaF92YWx1ZT1Ucm9XNkZ4NWljWFluRHU3SHpZMVlnPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/40de2167af80.webp" group-title="iPTVplus", True film2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDk6MDE6MDYgQU0maGFzaF92YWx1ZT1BTnJtcTVhdzNOWTR3K3RHV0dCUzdnPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDE6NTE6NTAgUE0maGFzaF92YWx1ZT1Ucm9XNkZ4NWljWFluRHU3SHpZMVlnPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/15202ff45da6.png" group-title="iPTVplus", True Asian More
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
@@ -107,3 +107,8 @@ http://103.114.203.129:8080/ake/12345/76
 http://103.114.203.129:8080/ake/12345/15674
 #EXTINF:-1 tvg-id="" tvg-name="PlayID-Movie" tvg-logo="http://103.114.203.129:8080/images/3c646a1b12bcfb038dc167aa4c69a821.png" group-title="ทีวี-พรีเมียม",PlayID-Movie
 http://103.114.203.129:8080/ake/12345/17788
+
+_________kicksball key_________
+
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDE6NTE6NTAgUE0maGFzaF92YWx1ZT1Ucm9XNkZ4NWljWFluRHU3SHpZMVlnPT0mdmFsaWRtaW51dGVzPTIw
+
