@@ -1,0 +1,109 @@
+#EXTM3U url="https://raw.githubusercontent.com/sugus320/djton/refs/heads/main/AIS%20PLAY.m3u"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/AusawinNuang/Pic/refs/heads/main/hbo.png"group-title="iPTVplus", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://kicksball.com/
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDg6MzQ6NDQgQU0maGFzaF92YWx1ZT15NURQTUJoZEh0eFR2N0sxRlMycCtBPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+
+
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/35348deb64cb.webp" group-title="iPTVplus", True film1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://kicksball.com/
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+https://dov.streaming-api.xyz/kicksballcom/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDg6MzU6NTYgQU0maGFzaF92YWx1ZT1leFQ1Y2hXZWpLc045NzdEM0VMaWF3PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/40de2167af80.webp" group-title="iPTVplus", True film2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://kicksball.com/
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDg6MzE6NTAgQU0maGFzaF92YWx1ZT1jYlRzdTBUMEt0ajEzSzlBY3RzWTFRPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/15202ff45da6.png" group-title="iPTVplus", True Asian More
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+https://app.ipplaybox.fun/atmflixlive/trueasianmore/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/247234af7e13.webp" group-title="iPTVplus", Aniplus
+#EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
+https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDI2IDg6MzE6NTAgQU0maGFzaF92YWx1ZT1jYlRzdTBUMEt0ajEzSzlBY3RzWTFRPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+
+#EXTINF:-1 tvg-chno="224" tvg-name="True Movie Hits" group-title="🎬 ภาพยนตร์",🟢 True Movie Hits
+#EXTVLCOPT:http-referrer=https://trueid.net/
+https://tv.trueid.net/th-th/live/true-movie-hits
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/f8eef0cf775f.jfif" group-title="iPTVplus", MySci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/mysci/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/81927b8d5365.jfif" group-title="iPTVplus", Samrujlok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-2.m-fixer.net/
+https://edge-2.m-fixer.net:8092/stream/ais/samrujlok/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/0cfebc3ad9bc.jpg" group-title="iPTVplus", Animal Show
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8
+
+#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png", ThaiRath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/thairathtvhd/master.m3u8
+
+
+#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/ch8/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/mono29plus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง", Cinem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/cinemax/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", Khong Dee Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/khongdeethailand/master.m3u8
+
+
+
+#EXTINF:-1 group-title="iPTVplus" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/mono29plus/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/ais/hbohd/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAYID 2.0" tvg-logo="http://103.114.203.129:8080/images/71b7b337e2987e91fec8e799fe2841ef.png" group-title="ทีวี-พรีเมียม",PLAYID 2.0
+http://103.114.203.129:8080/ake/12345/15672
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Series พากย์ไทย" tvg-logo="http://103.114.203.129:8080/images/3e278b4756914c02e1791e6d441692e5.png" group-title="ทีวี-พรีเมียม",PlayID Series พากย์ไทย
+http://103.114.203.129:8080/ake/12345/17239
+#EXTINF:-1 tvg-id="" tvg-name="PlayID Universal" tvg-logo="http://103.114.203.129:8080/images/78068d0f0c20c6b8a2bfdeb58343c7bd.png" group-title="ทีวี-พรีเมียม",PlayID Universal
+http://103.114.203.129:8080/ake/12345/17237
+#EXTINF:-1 tvg-id="" tvg-name="PlayID-Movie" tvg-logo="http://103.114.203.129:8080/images/3c646a1b12bcfb038dc167aa4c69a821.png" group-title="ทีวี-พรีเมียม",PlayID-Movie
+http://103.114.203.129:8080/ake/12345/17788
+#EXTINF:-1 tvg-id="368396" tvg-name="PlayID-4K BOX" tvg-logo="http://103.114.203.129:8080/images/c251c977571222e2ba4a0a39b6269df2.png" group-title="ทีวี-พรีเมียม",PlayID-4K BOX
+http://103.114.203.129:8080/ake/12345/76
+#EXTINF:-1 tvg-id="" tvg-name="โคนัน วันพีซ" tvg-logo="http://103.114.203.129:8080/images/5963ec11c666ea07f9c1d1a9db3ba547.jpg" group-title="ทีวี-พรีเมียม",โคนัน วันพีซ
+http://103.114.203.129:8080/ake/12345/15674
+#EXTINF:-1 tvg-id="" tvg-name="PlayID-Movie" tvg-logo="http://103.114.203.129:8080/images/3c646a1b12bcfb038dc167aa4c69a821.png" group-title="ทีวี-พรีเมียม",PlayID-Movie
+http://103.114.203.129:8080/ake/12345/17788
