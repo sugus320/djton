@@ -43,17 +43,17 @@ https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c
 #EXTVLCOPT:http-referrer=https://trueid.net/
 https://tv.trueid.net/th-th/live/true-movie-hits
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/f8eef0cf775f.jfif" group-title="iPTVplus", MySci
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/f8eef0cf775f.jfif" group-title="สารคดี", MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/mysci/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/81927b8d5365.jfif" group-title="iPTVplus", Samrujlok
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/81927b8d5365.jfif" group-title="สารคดี", Samrujlok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://edge-2.m-fixer.net/
 https://edge-2.m-fixer.net:8092/stream/ais/samrujlok/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/0cfebc3ad9bc.jpg" group-title="iPTVplus", Animal Show
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/0cfebc3ad9bc.jpg" group-title="สารคดี", Animal Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/animalshow/master.m3u8
@@ -82,7 +82,7 @@ https://edge-1.m-fixer.net:8092/stream/ais/cinemax/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องสารคดี", Khong Dee Thailand
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="สารคดี", Khong Dee Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://edge-1.m-fixer.net/
 https://edge-1.m-fixer.net:8092/stream/ais/khongdeethailand/master.m3u8
@@ -121,10 +121,16 @@ http://103.114.203.129:8080/ake/12345/15674
 #EXTINF:-1 tvg-id="" tvg-name="PlayID-Movie" tvg-logo="http://103.114.203.129:8080/images/3c646a1b12bcfb038dc167aa4c69a821.png" group-title="ทีวี-พรีเมียม",PlayID-Movie
 http://103.114.203.129:8080/ake/12345/17788
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/f8eef0cf775f.jfif" group-title="iPTVplus", MySci Kicksball
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/f8eef0cf775f.jfif" group-title="สารคดี", MySci Kicksball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 https://dov.streaming-api.xyz/kicksballcom/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI2IDM6NTU6MDUgUE0maGFzaF92YWx1ZT1uSEFVU2NjSG1XWmp2TzAySVZzYm9nPT0mdmFsaWRtaW51dGVzPTIw
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/81927b8d5365.jfif" group-title="สารคดี", Samrujlok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/samrujlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDI2IDQ6MTk6MTMgUE0maGFzaF92YWx1ZT1hR0QxZ25nZDFWbnBKNjhaWEJhSWlRPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 _________kicksball key_________
 
