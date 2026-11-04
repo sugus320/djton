@@ -1,5 +1,18 @@
 #EXTM3U url="https://raw.githubusercontent.com/sugus320/djton/refs/heads/main/aistv.m3u"
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/10/Madam-Commander-The-Captain-Surrenders-2026-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87-%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%9E%E0%B9%89-300x450.png"group-title="ดูหนัง",Madam Commander The Captain Surrenders (2026) ผู้การหญิง กัปตันขอยอมแพ้
+https://main.24playerhd.com/newplaylist/61b518e5d2c7ef06ae1b5267/61b518e5d2c7ef06ae1b5267.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/10/Detective-Conan-The-Counterfeit-Case-of-Ultra-30-2026-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82-30-300x450.png"group-title="ดูหนัง",ยอดนักสืบจิ๋วโคนัน คดีฆาตกรรมหมายเลข 30
+https://main.24playerhd.com/newplaylist/03f69317be78b98afdda560c/03f69317be78b98afdda560c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.123-hdc.com/wp-content/uploads/2026/10/Beware-Boiuna-2026-%E0%B8%9A%E0%B8%AD-%E0%B8%A2%E0%B8%B9-%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%AD%E0%B8%A1%E0%B8%B0%E0%B8%8B%E0%B8%AD%E0%B8%99-300x450.png"group-title="ดูหนัง",เลื้อยเขมือบยูนาน
+https://main.24playerhd.com/newplaylist/72903976d9c5b8d9aa7d1726/72903976d9c5b8d9aa7d1726.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/AusawinNuang/Pic/refs/heads/main/hbo.png"group-title="iPTVplus", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
