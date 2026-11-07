@@ -17,20 +17,20 @@ https://main.24playerhd.com/newplaylist/72903976d9c5b8d9aa7d1726/72903976d9c5b8d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDU6MDI6MDggUE0maGFzaF92YWx1ZT1wMU11S0VOU1I2M0FUQ3FxZHd0UC93PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI2IDM6MjA6MjQgUE0maGFzaF92YWx1ZT1ZZ0QrcHFTZDFOZ0ZZRkpqSnJOYTh3PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/35348deb64cb.webp" group-title="iPTVplus", True film1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDU6MDI6MDggUE0maGFzaF92YWx1ZT1wMU11S0VOU1I2M0FUQ3FxZHd0UC93PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI2IDM6MjA6MjQgUE0maGFzaF92YWx1ZT1ZZ0QrcHFTZDFOZ0ZZRkpqSnJOYTh3PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/40de2167af80.webp" group-title="iPTVplus", True film2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDU6MDI6MDggUE0maGFzaF92YWx1ZT1wMU11S0VOU1I2M0FUQ3FxZHd0UC93PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI2IDM6MjA6MjQgUE0maGFzaF92YWx1ZT1ZZ0QrcHFTZDFOZ0ZZRkpqSnJOYTh3PT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/15202ff45da6.png" group-title="iPTVplus", True Asian More
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
@@ -124,15 +124,15 @@ http://103.114.203.129:8080/ake/12345/17788
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/f8eef0cf775f.jfif" group-title="สารคดี", MySci Kicksball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kicksball.com/
-https://dov.streaming-api.xyz/kicksballcom/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDU6MDI6MDggUE0maGFzaF92YWx1ZT1wMU11S0VOU1I2M0FUQ3FxZHd0UC93PT0mdmFsaWRtaW51dGVzPTIw
+https://dov.streaming-api.xyz/kicksballcom/mysci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI2IDM6MjA6MjQgUE0maGFzaF92YWx1ZT1ZZ0QrcHFTZDFOZ0ZZRkpqSnJOYTh3PT0mdmFsaWRtaW51dGVzPTIw
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/81927b8d5365.jfif" group-title="สารคดี", Samrujlok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kicksball.com/
-https://dov.streaming-api.xyz/kicksballcom/samrujlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDU6MDI6MDggUE0maGFzaF92YWx1ZT1wMU11S0VOU1I2M0FUQ3FxZHd0UC93PT0mdmFsaWRtaW51dGVzPTIw
+https://dov.streaming-api.xyz/kicksballcom/samrujlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI2IDM6MjA6MjQgUE0maGFzaF92YWx1ZT1ZZ0QrcHFTZDFOZ0ZZRkpqSnJOYTh3PT0mdmFsaWRtaW51dGVzPTIw
 
 _________kicksball key_________
 
-wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI2IDU6MDI6MDggUE0maGFzaF92YWx1ZT1wMU11S0VOU1I2M0FUQ3FxZHd0UC93PT0mdmFsaWRtaW51dGVzPTIw
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI2IDM6MjA6MjQgUE0maGFzaF92YWx1ZT1ZZ0QrcHFTZDFOZ0ZZRkpqSnJOYTh3PT0mdmFsaWRtaW51dGVzPTIw
 
