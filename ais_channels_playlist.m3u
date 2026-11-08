@@ -99,7 +99,7 @@ https://mp3.ovp.ais.th:7111/live/eds/V0022/DNH/V0022.mpd?playbackUrlPrefix=https
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134712006706.png" group-title="AIS Play",เอชบีโอ
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://kicksball.com/
-https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6NTM6MDQgUE0maGFzaF92YWx1ZT0wSkdyTXVpTTJaNE8rRjByd3pPZWNRPT0mdmFsaWRtaW51dGVzPTIw
+https://dov.streaming-api.xyz/kicksballcom/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6NTM6MDQgUE0maGFzaF92YWx1ZT1ZOE9PYlgxNi95OGVYZFpLV3dmOUJnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134720006707.png" group-title="AIS Play",เอชบีโอ ซิกเนเจอร์
 #EXTVLCOPT:http-user-agent=ExoPlayer
@@ -119,7 +119,7 @@ https://mp3.ovp.ais.th:7111/live/eds/V0115/DNF/V0115.mpd?playbackUrlPrefix=https
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134649006712.png" group-title="AIS Play",ซิเนแม็กซ์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://kicksball.com/
-https://dov.streaming-api.xyz/kicksballcom/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6NTM6MDQgUE0maGFzaF92YWx1ZT0wSkdyTXVpTTJaNE8rRjByd3pPZWNRPT0mdmFsaWRtaW51dGVzPTIw
+https://dov.streaming-api.xyz/kicksballcom/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6NTM6MDQgUE0maGFzaF92YWx1ZT1ZOE9PYlgxNi95OGVYZFpLV3dmOUJnPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134635006505.png" group-title="AIS Play",เอเชียน ฮิตส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
@@ -254,16 +254,16 @@ https://edge-1.m-fixer.net:8092/stream/ais/mysci/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6NTM6MDQgUE0maGFzaF92YWx1ZT0wSkdyTXVpTTJaNE8rRjByd3pPZWNRPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6NTM6MDQgUE0maGFzaF92YWx1ZT1ZOE9PYlgxNi95OGVYZFpLV3dmOUJnPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/40de2167af80.webp"group-title="AIS Play",True film2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://kicksball.com/
 #EXTVLCOPT:http-user-agent=ATMFlix/1.0 (Flutter)
-https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6NTM6MDQgUE0maGFzaF92YWx1ZT0wSkdyTXVpTTJaNE8rRjByd3pPZWNRPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
+https://dov.streaming-api.xyz/kicksballcom/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6NTM6MDQgUE0maGFzaF92YWx1ZT1ZOE9PYlgxNi95OGVYZFpLV3dmOUJnPT0mdmFsaWRtaW51dGVzPTIw|referer=https://kicksball.com/
 
 _________KICKSBALL KEY_________
 
-wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDM6NTM6MDQgUE0maGFzaF92YWx1ZT0wSkdyTXVpTTJaNE8rRjByd3pPZWNRPT0mdmFsaWRtaW51dGVzPTIw
+wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDI2IDc6NTM6MDQgUE0maGFzaF92YWx1ZT1ZOE9PYlgxNi95OGVYZFpLV3dmOUJnPT0mdmFsaWRtaW51dGVzPTIw
 
 _______________________________
