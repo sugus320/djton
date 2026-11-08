@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url="https://raw.githubusercontent.com/sugus320/djton/refs/heads/main/ais_channels_playlist.m3u"
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132546006600.png" group-title="AIS Play",เอ็นบีที 2 เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
