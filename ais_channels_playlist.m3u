@@ -83,7 +83,7 @@ https://mp3.ovp.ais.th:7111/live/eds/V0003/DNH/V0003.mpd?playbackUrlPrefix=https
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133045006544.png" group-title="AIS Play",อมรินทร์ ทีวี เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+#EXTVLCOPT:http-referrer=https://kicksball.com/
 https://dov.streaming-api.xyz/kicksballcom/amarintv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNiAxMDoxMToxMiBBTSZoYXNoX3ZhbHVlPXVsWTZaT28rN1RTRGxPa0ZKeTJlRmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133132006704.png" group-title="AIS Play",7 เอชดี
@@ -222,7 +222,7 @@ https://mp3.ovp.ais.th:7111/live/eds/V0177/DNH/V0177.mpd?playbackUrlPrefix=https
 #EXTINF:-1 tvg-logo="https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1724166218.png&s=c55d3a79642f" group-title="AIS Play",True Explore Wild
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://kicksball.com/
-https://dov.streaming-api.xyz/kicksballcom/trueexplorewild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxOjU3OjEyIFBNJmhhc2hfdmFsdWU9UmdYMnhJK2ZOMkJMUnczN1orK2xEZz09JnZhbGlkbWludXRlcz0yMA==
+https://dov.streaming-api.xyz/kicksballcom/trueexplorewild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNiAxMDoxMToxMiBBTSZoYXNoX3ZhbHVlPXVsWTZaT28rN1RTRGxPa0ZKeTJlRmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135206006737.png" group-title="AIS Play",ดิสคัฟเวอรี่
 #EXTVLCOPT:http-user-agent=ExoPlayer
